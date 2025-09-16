@@ -24,7 +24,7 @@
 
 # Examples of Access Network 
 
-- ISP netowrks(internet service provider)
+- ISP networks(internet service provider)
 - Home networks (using wifi routers,modems)
 - Enterprise Networks (LANs in offices,universities)
 - ADSL (Asymmetric Digital Subscriber Line)
