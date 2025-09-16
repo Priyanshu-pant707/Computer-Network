@@ -9,7 +9,6 @@
 
 
 
-
 ## Types of Physical Media :
 
 - physical media can be divided into main  categories.
