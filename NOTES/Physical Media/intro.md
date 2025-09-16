@@ -11,7 +11,7 @@
 
 ## Types of Physical Media :
 
-- physical media can be divided into main  categories.
+- physical media can be divided into two main  categories.
 
 1. `Guided Media (wired)`
  - data signals are guided along a physical path
